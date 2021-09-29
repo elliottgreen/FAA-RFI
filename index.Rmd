@@ -1,9 +1,21 @@
 --- 
-title: "YOUR TITLE HERE"
+title: "Tasks 1 & 3 FAA RFI"
 author: "YOUR NAME HERE"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# FAA RFI Response | Tasks 1 & 2
+
+### 800-53 Analysis – Numbers (322 Prime, 1207 w/ Subs, systems ARM has touched)
+    __<P>__
+    __<SP>__
+
+### 800-53 Fundamentals – Baselines, Control Parameters, Overlays 
+    __<P>__
+    __<SP>__
+
+### 800-53 Process - Controls
+    __<P>__
+    __<SP>__
 
