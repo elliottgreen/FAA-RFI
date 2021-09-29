@@ -1,3 +1,7 @@
 # Baselines, Control Parameters, Overlays
 
-
+## SEcurity Control Baselines.
+We have extensive experience in selecting, supplementing, and documenting
+security control baselines. Specifically, we are well veresed in identifying the
+appropriate security and privacy control baselines as outlined in NIST SP 800-53
+& NIST 800-53B. 
