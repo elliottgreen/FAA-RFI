@@ -1,18 +1,18 @@
 # Guidence Documents for 800-53 Controls
 
-* 800-30 - Guide for Conducting Risk Assessments
-* 800-34 - Contingency Planning Guide for Federal Information Systems
-* 800-37 - Risk Management Framework for Information Systems and Organizations:
+* [800-30](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) - Guide for Conducting Risk Assessments
+* [800-34](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final) - Contingency Planning Guide for Federal Information Systems
+* [800-37](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final) - Risk Management Framework for Information Systems and Organizations:
   A System Life Cycle Approach for Security and Privacy
-* 800-60 - Guide for Mapping Types of Information and Information Systems to
+* [800-60](https://csrc.nist.gov/publications/detail/sp/800-60/vol-1-rev-1/final) - Guide for Mapping Types of Information and Information Systems to
   Security Categories
-* 800-66 - An Introductory Resource Guide for Implementing the Health Insurance
+* [800-66](https://csrc.nist.gov/publications/detail/sp/800-66/rev-1/final) - An Introductory Resource Guide for Implementing the Health Insurance
   Portability and Accountability Act (HIPAA) Security Rule
-* 800-70 - National Checklist Program for IT Products: Guidelines for Checklist
+* [800-70](https://csrc.nist.gov/publications/detail/sp/800-70/rev-4/final) - National Checklist Program for IT Products: Guidelines for Checklist
   Users and Developers
-* 800-88 - Guidelines for Media Sanitization
-* 800-111 - Guide to Storage Encryption 
+* [800-88](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - Guidelines for Media Sanitization
+* [800-111](https://csrc.nist.gov/publications/detail/sp/800-111/final) - Guide to Storage Encryption 
   Technologies for End User Devices
-* 800-171 - Protecting Controlled Unclassified Information in Nonfederal Systems
+* [800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) - Protecting Controlled Unclassified Information in Nonfederal Systems
   and Organizations
 

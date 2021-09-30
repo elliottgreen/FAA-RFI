@@ -7,9 +7,9 @@ site: bookdown::bookdown_site
 
 # FAA RFI Response | Tasks 1 & 2
 
-### 800-53 Analysis – Numbers (322 Prime, 1207 w/ Subs, systems ARM has touched)
-
-### 800-53 Fundamentals – Baselines, Control Parameters, Overlays 
-
-### 800-53 Process - Controls
+* 800-53 Analysis – Numbers (322 Prime, 1207 w/ Subs, systems ARM has touched)
+ 
+* 800-53 Fundamentals – Baselines, Control Parameters, Overlays 
+ 
+* 800-53 Process - Controls
 

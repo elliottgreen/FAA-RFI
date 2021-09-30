@@ -1,9 +1,9 @@
 faa-rfi-response-tasks-1-2
-analysis-numbers-322-prime-1207-w-subs-systems-arm-has-touched
-fundamentals-baselines-control-parameters-overlays
-process---controls
 baselines-control-parameters-overlays
 security-control-baselines.
 security-controls
-select-tailor-and-document-the-controls-necessary-to-protect-the-system-and
+starting-point-determination
+priority-1
+priority-2
+priority-3
 guidence-documents-for-800-53-controls

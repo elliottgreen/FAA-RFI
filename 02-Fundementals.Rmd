@@ -1,7 +1,25 @@
 # Baselines, Control Parameters, Overlays
 
-## SEcurity Control Baselines.
+## Security Control Baselines.
 We have extensive experience in selecting, supplementing, and documenting
 security control baselines. Specifically, we are well veresed in identifying the
 appropriate security and privacy control baselines as outlined in NIST SP 800-53
 & NIST 800-53B. 
+While working for VA Digital Transformation Center, our team accomplishments include
+ 
+ * 236 Information System evaluations for NIST 800-145 compliance
+ * 209 Information System evaluations for NIST 800-53 / 800-60 Security categorization
+ * 83 FedRAMP Initial Application Packages
+ * 66 FedRAMP Authorizations to Opperate granted
+ * 17 FedRAMP "In Process" designations
+
+Each of the information systems listed above required our teams expertise to evaluate 
+Low Impact, Moderate Impact, or High Impact systems. Each of these systems
+contain any combination of the following:
+
+_Baseline_ | _Number of Controls_ | _Sub Controls_
+-----------| ---------------- | ---------
+Privacy Baseline Controls | 81 | TBD
+Low Impact | 131 | TBD
+Moderate Impact | 177 | TBD
+High Impact | 188 | 1207
