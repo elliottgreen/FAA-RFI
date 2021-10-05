@@ -1,10 +1,13 @@
 # Security Controls
 
 ## Starting Point Determination
-We understand the precision required to select, tailor, and document the controls necessary to protect the system and organization commensurate with risk.
+Our team has mastered the precision required to select, tailor, and document Security Controls.
+NIST defined Security Controls are paramount to protecting an infomration system and the data it houses. 
 To that end, we have dedicated resources to analyzing the Prioritization Codes
 and their subsequent sqequencing outlined in [NIST SP
-800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final).
+800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), as
+well as [CNSS Instruction
+1253F](http://www.cnss.gov/CNSS/openDoc.cfm?71bJcSQKR0mWikOuLWvK5g==) for National Security systems. 
 
 ### Priority 1
    Security Controls identified as Priority 1 form the foundational controls
@@ -14,7 +17,11 @@ and their subsequent sqequencing outlined in [NIST SP
 
 ### Priority 2
     Security Controls identified as Priority 2 are built uopn the Priority 1
-    Secrity Controls. These (NaN) controls cumulatively 
+    Secrity Controls. These (NaN) controls provide the foundation upon which the
+    priority 3 Security Controls are built. 
 
 ### Priority 3
+    Security Controls within the Priority 3 category are built and implemented
+    last. This allows for congruence between the dependant Security Controls and
+    independant Security Controls. 
 
