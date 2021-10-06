@@ -10,18 +10,18 @@ well as [CNSS Instruction
 1253F](http://www.cnss.gov/CNSS/openDoc.cfm?71bJcSQKR0mWikOuLWvK5g==) for National Security systems. 
 
 ### Priority 1
-   Security Controls identified as Priority 1 form the foundational controls
-   that lay the foundation upon which all other security controls are built. For
-   this reason, our team has build an extensive porfolio of evaluative
-   techniques for these (NaN) controls.
+Security Controls identified as Priority 1 form the foundational controls
+that lay the foundation upon which all other security controls are built. For
+this reason, our team has build an extensive porfolio of evaluative
+techniques for these (NaN) controls.
 
 ### Priority 2
-    Security Controls identified as Priority 2 are built uopn the Priority 1
-    Secrity Controls. These (NaN) controls provide the foundation upon which the
-    priority 3 Security Controls are built. 
+Security Controls identified as Priority 2 are built uopn the Priority 1
+Secrity Controls. These (NaN) controls provide the foundation upon which the
+priority 3 Security Controls are built.
 
 ### Priority 3
-    Security Controls within the Priority 3 category are built and implemented
-    last. This allows for congruence between the dependant Security Controls and
-    independant Security Controls. 
+Security Controls within the Priority 3 category are built and implemented
+last. This allows for congruence between the dependant Security Controls and
+independant Security Controls.
 
